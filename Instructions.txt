@@ -1,0 +1,21 @@
+Hello,
+This is Aakanksha Tewari, a 3rd year undergraduate interested in programming and development.
+
+This include the entire work starting from retrofit and gson parsing to setting them in recyclerview.
+
+Material guidelines were followed to make the product unique.
+Animations were used to expand/collapse views.
+
+UI Test case--
+1. Clicking the card would expand and clicking again on top will collapse.
+2. clicking the card would expand and clicking on abstract will expand the whole text.
+3. after expanding the whole text, clicking on top will collapse the whole card.
+4. afterwards clicking the card would show the latest changes i.e. the whole card.
+5. If internet is not available, then Toast will come.
+
+
+Jetpacks used-
+1.Recycler View
+2.Card View
+3.OkHttp for increasing timeout
+4.Retrofit
